@@ -1,0 +1,21 @@
+names:
+- Brook
+- Chopper
+- Franky
+- Jinbe
+- Luffy
+- Nami
+- Robin
+- Sanji
+- Usopp
+- Zoro
+nc: 10
+roboflow:
+  license: CC BY 4.0
+  project: one-piece-character-classification
+  url: https://universe.roboflow.com/rodrigo-andrade-i8ksg/one-piece-character-classification/dataset/9
+  version: 9
+  workspace: rodrigo-andrade-i8ksg
+test: ../test/images
+train: One-Piece-Character-Classification-9/train/images
+val: One-Piece-Character-Classification-9/valid/images
